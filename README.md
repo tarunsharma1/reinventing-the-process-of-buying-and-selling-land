@@ -1,8 +1,9 @@
-# reinventing-the-process-of-buying-and-selling-land
+# Reinventing the process of buying and selling land, making it efficient and transparent
 
 Was made at Housing hackathon. Complemented with an android app.
 
 Our project consists of three parts.
+
 1. To provide personilized suggestions to users-
 	We ask the user what his purpose of buying the land is, whether he wants it for residential purposes or whether he is an investor.Based on his response
 , we can ask the user a bunch of questions inorder to provide him the best personilized recommendations. If the user was looking to buy land for residential purposes for example,
